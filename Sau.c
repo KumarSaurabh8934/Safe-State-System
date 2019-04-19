@@ -30,7 +30,6 @@ for(i = 0; i < P; i++)
 	for(j = 0; j < R; j++)
 		scanf("%d", &allocationMatrix[i][j]);	
 }
-	saytghdhdkhdndjdbdjdbj
 
 printf("\n\nEnter the Available Resources : ");
 for(i = 0; i < R; i++)
