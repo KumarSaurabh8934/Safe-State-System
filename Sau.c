@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-#define q 5
-#define s 3
+#define P 5
+#define R 3
 
 {
 int main()
