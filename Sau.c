@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-#define P 5
-#define R 3
+#define q 5
+#define s 3
 
-
+{
 int main()
 {
 int MaxMatrix[P][R], needMatrix[P][R], allocationMatrix[P][R], available[R], finished[P];
@@ -85,4 +85,5 @@ if(count == P)
 else
 	printf("\nThe system is in an unsafe state!!");
 
+}
 }
